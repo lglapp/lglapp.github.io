@@ -1,4 +1,26 @@
 {
+    "biyeji": [
+        {
+            "name": "1",
+            "url": "http://cdn.hzlyhlw.store/biye/biyeji1.jpg"
+        },
+        {
+            "name": "2",
+            "url": "http://cdn.hzlyhlw.store/biye/biyeji2.jpg"
+        },
+        {
+            "name": "3",
+            "url": "http://cdn.hzlyhlw.store/biye/biyeji3.jpg"
+        },
+        {
+            "name": "4",
+            "url": "http://cdn.hzlyhlw.store/biye/biyeji4.jpg"
+        },
+        {
+            "name": "5",
+            "url": "http://cdn.hzlyhlw.store/biye/biyeji5.jpg"
+        }
+    ],
     "wanshengjie": [
         {
             "name": "1",
